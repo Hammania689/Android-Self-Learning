@@ -1,2 +1,3 @@
-# udacity_android_course
-Getting a feel for android with this course
+# The Outdate Android Starter Pack 
+Getting a feel for android with these courses and quick apps
+
