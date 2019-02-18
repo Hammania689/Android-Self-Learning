@@ -3,6 +3,8 @@ Getting a feel for android with these courses and quick apps
 
 ## Sprint 1 (2.4 - 2.18)
 Spent the bulk of my time going through Udacity tutorials. I enrolled in the "Developing Android Apps" and "Firebase in a Weekend for Andriod" course. To my surpise the Developing Android Apps was rather informative and good jump starter. I mismanaged my time from week one so had to move on to firebass tutorials. This however, did not go far for I had other matters and am still bad at managing my time.
+
+
 ![Image 1]
 
 
